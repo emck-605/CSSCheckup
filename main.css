@@ -1,0 +1,40 @@
+.wrapper{
+    margin: 5px;
+}
+
+body{
+    background-color: rgb(170, 168, 168);
+}
+
+h1{
+    text-align: center;
+    border: 5px solid rgb(2, 238, 255);
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 50px;
+}
+
+.nav{
+    position: fixed;
+    top: 0;
+    left: 12px;
+    width: 300px;
+    background-color: lightgray;
+    border: 3px solid black;
+}
+
+h2{
+    text-align: center;
+    border: 5px solid rgb(2, 238, 255);
+    font-family: 'Shadows Into Light', cursive;
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+}
+
+.lotsoftext{
+    height: 730px;
+    width: 100%;
+    background-color:rgb(2, 238, 255);
+}
